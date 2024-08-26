@@ -1,7 +1,7 @@
 # Estuary temperature variability
 This document contains the details of the scripts for the Narragansett Bay SST paper
 
-v3 dataset description
+## v3 dataset description
 
 The v3 dataset has three folders - 1. Scripts, 2. Data, and 3. Figures. 
 
@@ -43,7 +43,7 @@ It contains the indices of each scene that falls under individual tide phases. F
 SeasonalityTides.mat
 It contains the indices of seasons and months for each Landsat scene captured. This information is important for both tidal analysis and seasonal cycle analysis. 
 
-Scripts
+## Scripts
 
 plot_decadal_mean_Bay.m
 This code generates a decadal mean temperature map and computes the standard errors for each decade. 
