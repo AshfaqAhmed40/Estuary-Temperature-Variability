@@ -1,3 +1,4 @@
+# Estuary temperature variability
 This document contains the details of the scripts for the Narragansett Bay SST paper
 
 # v3 dataset description
