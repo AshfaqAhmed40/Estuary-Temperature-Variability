@@ -1,7 +1,7 @@
 # Estuary temperature variability
 This document contains the details of the scripts for the Narragansett Bay SST paper
 
-# v3 dataset description
+## v3 dataset description
 
 The v3 dataset has three folders - 1. Scripts, 2. Data, and 3. Figures. 
 
