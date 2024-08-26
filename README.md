@@ -1,4 +1,4 @@
-# Narragasnett_Bay_SST
+This document contains the details of the scripts for the Narragansett Bay SST paper
 
 # v3 dataset description
 
